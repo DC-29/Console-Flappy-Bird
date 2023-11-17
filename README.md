@@ -1,1 +1,2 @@
-# Flappy bird clone made in Python without a game (or similar) library
+# Flappy bird clone using just command line
+## Made in python without any game (or similar) library
